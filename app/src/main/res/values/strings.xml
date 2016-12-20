@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleWeather</string>
+    <string name="humidity">"Humidity: "</string>
+    <string name="pressure">"Pressure: "</string>
+    <string name="gps_not_enabled">GPS not enabled</string>
+    <string name="enable_gps">enable?</string>
+    <string name="gps_enable">Enable</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_city">Change city</string>
+    <string name="warning_gps">Warning!</string>
+</resources>
